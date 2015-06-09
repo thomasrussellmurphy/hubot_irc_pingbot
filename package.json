@@ -1,0 +1,17 @@
+{
+  "name": "hubot-irc-pingbot",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Thomas Russell Murphy <thomas.russell.murphy@case.edu>",
+  "description": "Why not track uptime with IRC and hubot?",
+  "dependencies": {
+    "hubot": "^2.13.1",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-help": "^0.1.1",
+    "hubot-irc": "^0.2.7",
+    "hubot-redis-brain": "0.0.3",
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
